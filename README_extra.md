@@ -1,1 +1,1 @@
-using this (guide)[https://aaronbos.dev/posts/csharp-dotnet-neovim]
+using this [guide](https://aaronbos.dev/posts/csharp-dotnet-neovim)
